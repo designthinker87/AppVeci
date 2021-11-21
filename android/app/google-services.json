@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19687160831",
+    "project_id": "veci-13",
+    "storage_bucket": "veci-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19687160831:android:db2d3d1d8af9b59e7705ca",
+        "android_client_info": {
+          "package_name": "com.unbosque.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19687160831-7flpmifcgfjue5abie101l6aoaqud89b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjoCVp0lvW32j_CGTa4q5Tl0Tf0wEcYZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19687160831-7flpmifcgfjue5abie101l6aoaqud89b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
